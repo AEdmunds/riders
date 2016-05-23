@@ -239,7 +239,7 @@ iframe {
 	border-bottom:1.5em solid #FFF;
 }
 #content {
-	background:#FFF url(../Content/images/site-bg.png) repeat-y top left;
+	background:#FFF url(./Content/images/site-bg.png) repeat-y top left;
 	padding:0 0 3em 0;
 }
 	#content.home {
